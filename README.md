@@ -16,4 +16,4 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQFuGu76EDaO2g/profile-displaybackgroundimage-shrink_350_1400/0/1600514626868?e=1649894400&v=beta&t=3qpvgnU0y1155cXgkal47t5dA6TYbt1oQjGF1_l3Zrk)
 
 
-[![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesh-143&show_icons=true&theme=dracula)](https://github.com/mahesh-143/github-readme-stats)
+[![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesh-143&show_icons=true&theme=gruvbox)](https://github.com/mahesh-143/github-readme-stats)
