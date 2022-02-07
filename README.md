@@ -17,3 +17,5 @@
 
 
 [![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesh-143&show_icons=true&theme=tokyonight)](https://github.com/mahesh-143/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-143&layout=compact)](https://github.com/mahesh-143/github-readme-stats)
