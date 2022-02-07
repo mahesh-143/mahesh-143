@@ -15,7 +15,11 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQFuGu76EDaO2g/profile-displaybackgroundimage-shrink_350_1400/0/1600514626868?e=1649894400&v=beta&t=3qpvgnU0y1155cXgkal47t5dA6TYbt1oQjGF1_l3Zrk)
 
+<a href="https://github.com/mahesh-143/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh-143&show_icons=true&theme=tokyonight" />
+</a>
 
-[![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesh-143&show_icons=true&theme=tokyonight)](https://github.com/mahesh-143/github-readme-stats)
+<a href="https://github.com/mahesh-143/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-143&layout=compact" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-143&layout=compact)](https://github.com/mahesh-143/github-readme-stats)
