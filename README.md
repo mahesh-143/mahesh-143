@@ -13,5 +13,5 @@
 <br />
 <br />
 
-![](https://media-exp1.licdn.com/dms/image/C4D16AQFuGu76EDaO2g/profile-displaybackgroundimage-shrink_350_1400/0/1600514626868?e=1649894400&v=beta&t=3qpvgnU0y1155cXgkal47t5dA6TYbt1oQjGF1_l3Zrk)
 
+![Twitter header - 1 (2)](https://user-images.githubusercontent.com/68990762/156298040-578e29f8-a5b9-4bed-89ae-b7cef702ff07.png)
