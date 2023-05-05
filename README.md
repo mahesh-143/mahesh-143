@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mobile Application with React Native.<br>🌱 I’m currently learning React Native and TypeScript.<br>💬 Ask me about CSS, React and JavaScript.<br>
+🔭 I’m currently working on a Mobile Application with React Native.<br>🌱 I’m currently learning React Native and TypeScript.<br>💬 Ask me about CSS, React and JavaScript.<br>
 
 
 ## 🌐 Socials:
