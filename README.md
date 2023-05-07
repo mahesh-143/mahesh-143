@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=mahesh-143&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/ichmahesh)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=ichmahesh&theme=tokyonight"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
