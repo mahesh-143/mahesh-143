@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Mobile Application with React Native.<br>🌱 I’m currently learning React Native and TypeScript.<br>💬 Ask me about CSS, React and JavaScript.<br>
+I am a full-stack developer based in Gujarat, India with a knack for creating innovative and efficient web solutions. With a solid foundation in both front-end and back-end development, I strive to deliver seamless user experiences and robust functionality.<br>
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mahesh-143&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=ichmahesh&theme=tokyonight"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
