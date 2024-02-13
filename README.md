@@ -3,7 +3,7 @@ I am Mahesh, a full-stack developer based in Gujarat, India with a knack for cre
 
 ### Socials
 [LinkedIn](https://www.linkedin.com/in/mahesh-odedara-392257239/) <br>
-[Twitter](https://twitter.com/ichmahesh) <br>
+[Twitter](https://x.com/thesnowcodes) <br>
 [Portfolio](https://maheshodedara.vercel.app)
 
 ### Tech Stack
