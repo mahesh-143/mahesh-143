@@ -1,5 +1,5 @@
 ### Hello there 👋
-I am Mahesh, a full-stack developer based in Gujarat, India.<br>
+I'm Mahesh, a full-stack developer based in Gujarat, India.<br>
 
 ## 🔧 Technologies & Tools
 - Languages: HTML, CSS, Javascript, Typescript, Go(learning)
@@ -25,7 +25,7 @@ I am Mahesh, a full-stack developer based in Gujarat, India.<br>
 ## ⚡ Fun Fact
 - I can recognize most national flags around the world 🌍.
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=mahesh-143&icon=6&color=6)](https://visitcount.itsvg.in)
