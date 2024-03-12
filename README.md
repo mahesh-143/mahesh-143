@@ -1,37 +1,31 @@
 ### Hello there 👋
-I am Mahesh, a full-stack developer based in Gujarat, India with a knack for creating innovative and efficient web solutions. With a solid foundation in both front-end and back-end development, I strive to deliver seamless user experiences and robust functionality.<br>
+I am Mahesh, a full-stack developer based in Gujarat, India.<br>
 
-### Socials
-[LinkedIn](https://www.linkedin.com/in/mahesh-odedara-392257239/) <br>
-[X](https://x.com/thesnowcodes) <br>
-[Portfolio](https://maheshodedara.vercel.app)
+## 🔧 Technologies & Tools
+- Languages: HTML, CSS, Javascript, Typescript, Go(learning)
+- Frontend: Tailwind CSS, React JS, Next JS
+- Backend: Express JS, Prisma, Socket.IO
+- Database: Postgres, MySQL, MongoDB
+- Other: I use vim **btw** and Ubuntu (UwU)ntu 
 
-### Tech Stack
+## 🚀 Projects
+- [Proflex](https://github.com/mahesh-143/proflex) (Work In Progress 🚧): A platform like dribbble for developers. 
+- [NihongoQuizDojo](https://github.com/mahesh-143/nihongoquizdojo) (Work In Progress 🚧): Learn Japanese letters by playing quiz
+- [My Website](https://github.com/mahesh-143/nextjs-portfolio): A Portfolio site to showcase projects and skills.
 
-<table>
-  <tbody>
-    <tr>
-      <td>HTML</td>
-      <td>CSS</td>
-    </tr>
-    <tr>
-      <td>Tailwind CSS</td>
-      <td>Javascript/Typescript</td>
-    </tr>
-    <tr>
-      <td>React JS/Next JS</td>
-      <td>React Native</td>
-    </tr>
-     <tr>
-      <td>Node JS</td>
-      <td>Express Js</td>
-    </tr>
-  </tbody>
-  </table>
+## 🌱 I'm Currently Learning
+- C and Go
+
+## 💬 Let's Connect!
+- LinkedIn: [Mahesh Odedara](https://www.linkedin.com/in/mahesh-odedara-392257239/)
+- Twitter: [@maheshuseslinux](https://x.com/maheshuseslinux)
+- Portfolio: [My Website](https://maheshodedara.vercel.app)
+- Email: maheshodedara13@yahoo.com
+
+## ⚡ Fun Fact
+- I can recognize most national flags around the world 🌍.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=mahesh-143&icon=6&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
