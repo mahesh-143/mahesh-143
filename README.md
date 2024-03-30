@@ -9,17 +9,17 @@ I'm Mahesh, a full-stack developer based in Gujarat, India.<br>
 - Other: I use vim **btw** and Ubuntu (UwU)ntu 
 
 ## 🚀 Projects
-- [Proflex](https://github.com/mahesh-143/proflex) (Work In Progress 🚧): A platform like dribbble for developers. 
-- [NihongoQuizDojo](https://github.com/mahesh-143/nihongoquizdojo) (Work In Progress 🚧): Learn Japanese letters by playing quiz
-- [My Website](https://github.com/mahesh-143/nextjs-portfolio): A Portfolio site to showcase projects and skills.
+- [Chatwork](https://github.com/mahesh-143/chatwork):  (🚧 work in progress) A discord clone
+- [Proflex](https://github.com/mahesh-143/proflex): A platform like dribbble for developers. 
+- [NihongoQuizDojo](https://github.com/mahesh-143/nihongoquizdojo) : Practice to read Japanese letters by playing quiz
 
-## 🌱 I'm Currently Learning
-- C and Go
+## 🧠 I'm Currently Learning
+- Go
 
 ## 💬 Let's Connect!
 - LinkedIn: [Mahesh Odedara](https://www.linkedin.com/in/mahesh-odedara-392257239/)
 - Twitter: [@maheshuseslinux](https://x.com/maheshuseslinux)
-- Portfolio: [My Website](https://maheshodedara.vercel.app)
+- Portfolio/Blog: [itsmahesh.xyz](https://itsmahesh.xyz)
 - Email: maheshodedara13@yahoo.com
 
 ## ⚡ Fun Fact
