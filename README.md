@@ -9,7 +9,7 @@ I'm Mahesh, a full-stack developer based in Gujarat, India.<br>
 - Other: I use vim **btw** and Ubuntu (UwU)ntu 
 
 ## 🚀 Projects
-- [Chatwork](https://github.com/mahesh-143/chatwork):  (🚧 work in progress) A discord clone
+- [Channels](https://github.com/mahesh-143/channels):  (🚧 work in progress) A discord clone
 - [Proflex](https://github.com/mahesh-143/proflex): A platform like dribbble for developers. 
 - [NihongoQuizDojo](https://github.com/mahesh-143/nihongoquizdojo) : Practice to read Japanese letters by playing quiz
 
